@@ -62,22 +62,21 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 6cbaa4389d74519e2e52                            #生成的clientID
-  clientSecret: 9ad60699b9b111d887b1510d34418901ca1a0db2    #生成的clientSecret
-  repo: xiaokeai18.github.io    #仓库名称
-  owner: xiaokeai18    #github用户名
-  admin: xiaokeai18
+  clientID: 573ba896acd263401897                            #生成的clientID
+  clientSecret: bdd36ad3eeff0f966c41af963fa27dbae76d215b    #生成的clientSecret
+  repo: qlongstudio.github.io    #仓库名称
+  owner: qlongstudio    #github用户名
+  admin: qlongstudio
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: e9f1f0510e25f0b8fda63db0dbae8794
-# Google Analytics
-ga_track_id: 'UA-132855876-1'            # Format: UA-xxxxxx-xx
-ga_domain: wangpei.ink               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ba_track_id: e9f1f0510e25f0b8fda63db0dbae8794
+# # Google Analytics
+# ga_track_id: 'UA-132855876-1'            # Format: UA-xxxxxx-xx
+# ga_domain: wangpei.ink               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
